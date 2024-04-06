@@ -9,6 +9,7 @@ Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
 
 ## Modules
 
-### Module 1 - Discover Data Analysis
-- [Overview of Data Analysis](./docs/module_1/overview.md)
-
+### 1. Discover Data Analysis
+- [Overview of data analysis](./docs/module_1/overview.md)
+- [Roles in data](./docs/module_1/roles.md)
+- [Tasks of a data analyst](./docs/module_1/tasks.md)
