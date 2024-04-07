@@ -18,4 +18,5 @@ Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
 ### 2. Get Started Building Power BI
 
 - [Introduction](./docs/module_2/introduction.md)
-- [USe Power BI](./docs/module_2/power_bi.md)
+- [Use Power BI](./docs/module_2/power_bi.md)
+- [Building block of Power BI](./docs/module_2/building_blocks.md)
