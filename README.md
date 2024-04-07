@@ -26,6 +26,8 @@ Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
 - [Get data from files](./docs/module_3/data_from_files.md)
 - [Get data from relational database](./docs/module_3/data_from_relational.md)
 - [Get data from a NoSQL database](./docs/module_3/data_from_nosql.md)
+- [Get data from online services](./docs/module_3/data_from_services.md)
+- [Select a storage mode](./docs/module_3/storage_mode.md)
 - [Create dynamic reports with parameters](./docs/module_3/dynamic_reports.md)
 
 
