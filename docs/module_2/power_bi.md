@@ -1,5 +1,7 @@
 # Power BI
 
+**Microsoft Power BI** is a complete reporting solution that offers data preparation, data visualization, distribution, and management through development tools and an online platform.
+
 There are three primary components to Power BI:
 - **Power BI Desktop** (desktop application)
 - **Power BI Service** (online platform)
