@@ -12,7 +12,7 @@ Power BI Desktop allows you to get data from many types of files.
 
 The first step is to determine which file location you want to use to export and store your data.
 
-Yout file might exist in one of the following locations:
+Your file might exist in one of the following locations:
 - **Local**
     - You can import data from a local file into Power BI
     - The file isn't moved into Power BI and a link doesn't remain to it
@@ -20,7 +20,7 @@ Yout file might exist in one of the following locations:
     - Changes to the original Excel file aren't reflected in your Power BI semantic model
     - You can use local data import for **data that doesn't change**
 - **OneDrive**
-    - You can pull data from OneDrive for Business into Power BI
-    - This method is effective in keeping an Excel file and your semantic model, reports, and dashboards in Power BI **synchronized**
+    - You can pull data from OneDrive into Power BI
+    - This method is effective in keeping an Excel file and your semantic model, reports, and dashboards **synchronized**
 - **SharePoint - Team Sites**
     - Saving your Power BI Desktop files to SharePoint Team Sites is similar to saving to OneDrive
