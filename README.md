@@ -6,7 +6,6 @@ Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
 
 [Course Syllabus](https://learn.microsoft.com/en-us/training/courses/pl-300t00#course-syllabus)
 
-
 ## Modules
 
 ### 1. Discover Data Analysis
@@ -32,6 +31,3 @@ Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
 - [Fix performance issues](./docs/module_3/performance_issues.md)
 - [Resolve data import errors](./docs/module_3/resolve_import_errors.md)
 - [Create dynamic reports with parameters](./docs/module_3/dynamic_reports.md)
-
-
-
