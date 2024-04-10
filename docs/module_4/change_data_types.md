@@ -1,6 +1,6 @@
 # Evaluate and change column data types
 
-When you import a table from any data source, Power BI Desktop automatically starts scanning the first 1K rows (default setting) and tries to detect the type of data in the columns. 
+When you import a table from any data source, Power BI Desktop automatically starts scanning the first 1000 rows (default setting) and tries to detect the type of data in the columns. 
 
 Some situations might occur where Power BI Desktop doesn't detect the correct data type.
 

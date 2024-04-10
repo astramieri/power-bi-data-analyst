@@ -22,7 +22,7 @@ You can also remove duplicates from columns to only keep unique names in a selec
 
 Naming conventions for tables, columns, and values have no fixed rules; however, we recommend that you use the language and abbreviations that are commonly used within your organization and that everyone agrees on and considers them as common terminology.
 
-A best practice is to give your tables, columns, and measures descriptive business terms and replace underscores ("_") with spaces. Be consistent with abbreviations, prefixes, and words like "number" and "ID." Excessively short abbreviations can cause confusion if they are not commonly used within the organization.
+A best practice is to give your tables, columns, and measures descriptive business terms and **replace underscores with spaces**. Be consistent with abbreviations, prefixes, and words like "number" and "ID." Excessively short abbreviations can cause confusion if they are not commonly used within the organization.
 
 Also, by removing prefixes or suffixes that you might use in table names and instead naming them in a simple format, you will help avoid confusion.
 
