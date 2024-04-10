@@ -35,5 +35,6 @@ Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
 ### 4. Clean, transform, and load data in Power BI
 
 - [Shape the initial data](./docs/module_4/shape_data.md)
+- [Simplify the data structure](./docs/module_4/data_structure.md)
 
 
