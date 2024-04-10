@@ -36,5 +36,6 @@ Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
 
 - [Shape the initial data](./docs/module_4/shape_data.md)
 - [Simplify the data structure](./docs/module_4/data_structure.md)
+- [Evaluate and change column data types](./docs/module_4/change_data_types.md)
 
 
