@@ -1,6 +1,6 @@
-# Microsoft Power BI Data Analyst
+# Power BI Data Analyst
 
-Note-taking repository for Microsoft Power BI Data Analyst course (PL-300T00).
+Note-taking repository for Power BI Data Analyst Associate certification course (PL-300).
 
 ## Links
 
