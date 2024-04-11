@@ -4,7 +4,7 @@ Note-taking repository for Power BI Data Analyst Associate certification course 
 
 ## Links
 
-[Course Syllabus](https://learn.microsoft.com/en-us/training/courses/pl-300t00#course-syllabus)
+[Course Syllabus](https://learn.microsoft.com/en-us/training/courses/pl-300t00)
 
 ## Modules
 
