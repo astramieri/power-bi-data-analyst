@@ -41,4 +41,11 @@ Note-taking repository for Power BI Data Analyst Associate certification course 
 - [Profile data in Power BI](./docs/module_4/profile_data.md)
 - [Use Advanced Editor to modify M code](./docs/module_4/advanced_editor.md)
 
+### 5. Design a semantic model in Power BI
+
+- [Semantic Model](./docs/module_5/semantic_model.md)
+- [Work with tables](./docs/module_5/work_with_tables.md)
+- [Work with dimension](./docs/module_5/work_with_dimension.md)
+- [Define data granularity](./docs/module_5/data_granularity.md)
+
 
