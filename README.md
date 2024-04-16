@@ -47,5 +47,6 @@ Note-taking repository for Power BI Data Analyst Associate certification course 
 - [Work with tables](./docs/module_5/work_with_tables.md)
 - [Work with dimension](./docs/module_5/work_with_dimension.md)
 - [Define data granularity](./docs/module_5/data_granularity.md)
+- [Work with relationships and cardinality](./docs/module_5/work_with_relationships.md)
 
 
