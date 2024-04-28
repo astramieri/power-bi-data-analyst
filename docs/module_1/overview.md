@@ -11,15 +11,17 @@ The **core components** of analytics are divided into the following categories:
 - Prescriptive
 - Cognitive
 
+![Analytics](./analytics.png)
+
 ## Descriptive analytics
 
-Descriptive analytics help answer questions about what has happened based on historical data. 
+Descriptive analytics help answer questions about **what** has happened based on historical data. 
 
 An example of descriptive analytics is generating reports to provide a view of an organization's sales and financial data.
 
 ## Diagnostic analytics
 
-Diagnostic analytics help answer questions about why events happened.
+Diagnostic analytics help answer questions about **why** events happened.
 
 ## Predictive analytics
 
